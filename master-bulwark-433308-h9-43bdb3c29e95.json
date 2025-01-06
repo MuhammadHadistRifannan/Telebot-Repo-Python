@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "master-bulwark-433308-h9",
+  "private_key_id": "43bdb3c29e953477f776bb5d66dbc6925f6bec58",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDJsPBjBW0kYqPj\nbPSayihDp8f1S5Qa0qdbe2IUjAeGQ2GEW4KRcCb6Jc3dexGHDIlJdLTshl2Oh2iZ\nJVTQygrEsqrhg0cz4baC/04hwwG4b/djNmcY5heZrjHIQK2wt+p8sgG4AmYkbdx0\noCkrI6InUq+cKeegWlZ+Hdjb3Hi88VynZ3sQl7AUxmqSNPAijCxeeb+MOa5VZAne\n7iuYEWuEVxJdrJca6Yi9k0uraEBEq69o8n5E/t+rq8Uknjx0IgFAMza6LxROZYec\nIU8SZZ5ScFR3HlLmVK5ohFSoNlLexOjY4HOA+RO3H1/l7P7Qxv37hFpsUvMHVxO+\nFpnRHdN5AgMBAAECggEADhlgXzZckCk/wQDiLdqT61F/Q5Z/nqBl3USdcUeYqboW\nxw8z7BbQTWGh0n8X6pOQb/dzQ6rg6hBtL3InS7EpWja4hgCMqa54TmVVK5Gw58PB\nTMjbdtIe3uSzy4aPSHCS48SjJMnbehBz/h3JbZ/qu0pRxwjm4ultwm3eYFWOhdFP\nA5W7DMnqMiNqTWP3IeIwPpYg5rwwu+bT99Ebnx9EfbrEECdbAcR64YVQCXl26BNy\nGs6zYu5E5189rpVPGYCWQ1IZcLqRsKe4x/ENUPo3F8YvC45IsAlPIwyw4JMeQu80\nlY1VCvjd4Kn3mm+2jh4X5KMfnNXZpDs665UrqOMYQQKBgQD2gwrz4a/KfvSqO/00\nc1FQU367HTOQN4w5hyL/god9FJoD3ssU2qbNnqJXpv439NyROsmcIipYCGx0jXDm\noN++Xkg5A+AR8Mk51tejAzpxJq31HigUWL33pdJstX3qE33If15y1QBhphtBADs7\nFtrA5fZ9CZgHGcMeZP72ONLxWwKBgQDRdEOSEbhrUbS+gO53HGF7vSOTqLRXLrSn\nlv0MLtuvbIB1THksgdqcYy1dSVJ3r33JCz8JroJvLsmctRwt9PPlFeb/8DLcMBVe\neof2c3qYWOmg0J4XTuSLJ6i++VoAck+lmOETR/QHXStLpv/KZ2jGBXEEbb/sjoj6\noTVVnzdyuwKBgQCkSoXcMIfWb3JkmoKQmGKTJHKMBlQ9Q6gjFxuOKtJd3IMhHTU/\n+tG8rIMJ4/P+GyV9bS687lBGR6bwruuV6ZX07CU6SojlrBKQh81DiX1DuEGr4aNY\nnCRPjqaFaRg4DzF/lNO/uJH+gpQbaCoRoZO9iAYVI3W9FcBi23DJbOm5jQKBgCr9\nLN0vC+Xi+DDdb5Q82/k0obetuY3nRSbcg4VbnLVNlLP+hSRQZpkQdgAei3GLMEry\nJvcKvTSqqrCiL21zSBetviKrnxS4PbqNdZhsrS3VmeXqy3fHNnslIapIrWNIEvbP\nAOsfKoPUaI13ciqNvOBfv4mEKQ8ZVh3ytmqjahL/AoGAfVDAxzR94foYz+T092in\ntIzkqJ0G3mNb1IUz0BDqDm5l6MyQWwzhkqAoe7ZRe933VTo4z5zueNaSlMwXxlZx\nGJwBfcItYwRA2tPfGF1w6dzFzf6BswqAKHs0Zf9w92iJPRagb/o6dAFKsXXaeiay\nBljjI5p/+w7tf2b+hq50gQs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "data-access-tele@master-bulwark-433308-h9.iam.gserviceaccount.com",
+  "client_id": "109849274444088742213",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/data-access-tele%40master-bulwark-433308-h9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
